@@ -1,0 +1,4 @@
+name: WGNoDrop
+main: me.creeper96.noDrop.Main
+version: 0.9
+depend: [ WorldGuard, WGCustomFlags ]
